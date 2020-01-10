@@ -10,7 +10,7 @@ namespace CalcularInvestimento
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Calcular Investimento");
+            Console.WriteLine(" Investimento");
 
             double valorInvestido = 10150.76;
 
